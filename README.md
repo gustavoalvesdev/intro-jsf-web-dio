@@ -14,5 +14,5 @@ Aprenda como trabalhar com a linguagem Java para aplicações web e desenvolva u
 
 #### Entenda como usar PrimeFaces e CSS
 - [x] Implementação do CDI
-- [ ] Criação de listas e Implementação do Prime Faces
+- [x] Criação de listas e Implementação do Prime Faces
 - [ ] Estilizando o Projeto com CSS
